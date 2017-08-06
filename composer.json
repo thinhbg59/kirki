@@ -1,6 +1,5 @@
 {
   "name": "thinhbg59/kirki",
-  "type": "wordpress-plugin",
   "description": "Extending the WordPress customizer",
   "homepage": "http://kirki.org",
   "license": "GPLv2 or later",
